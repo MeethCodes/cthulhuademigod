@@ -3,7 +3,7 @@
 <h3 align="center">  🚀 AIML Engineer | 💻 from Mumbai, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0A6&center=true&vCenter=true&width=700&lines=Engineer+%7C+AIML+Specialist;Building+Impactful+Projects;Always+Learning+%26+Exploring;From+Code+to+Cars+%F0%9F%9A%97" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0A6&center=true&vCenter=true&width=700&lines=Engineer+%7C+Specialization+in+AIML;Building+Impactful+Projects;Always+Learning+%26+Exploring;From+Code+to+Cars+%F0%9F%9A%97" />
 </p>
 
 ---
@@ -41,7 +41,6 @@
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎙 **Voice-Based Personal Assistant** | Desktop app for voice commands & automation | Python, SpeechRecognition |
 | 📱 **Diabetes Detection App** | Predicts diabetes stage via symptoms & ML | Kotlin, TensorFlow Lite |
 | 🤖 **Chatbot EMS** | Manage employee data via natural language | Python, SQL, NLP |
 | 📊 **AutoAnchor (YouTube Hot Topic Finder)** | AI-powered content & script generator | Python, APIs, ML |
@@ -58,13 +57,12 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/meeth-amin-4a73711b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aminmeeth89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=meethcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
